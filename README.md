@@ -10,21 +10,13 @@
 
 <h3 align="center">🌱 My current interests:</h3>
 <p align="center">
-<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
   <img src="./images/42.svg" alt="42 Logo" width="30" height="30" />
-</span>
   &nbsp;&nbsp;
-<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-  <img src="./images/c.svg" alt="C Logo" width="30" height="30" />
-</span>
+  <img src="./images/c.svg" alt="42 Logo" width="30" height="30" />
   &nbsp;&nbsp;
-<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-  <img src="./images/cplusplus.svg" alt="C++ Logo" width="30" height="30" />
-</span>
+  <img src="./images/cplusplus.svg" alt="42 Logo" width="30" height="30" />
   &nbsp;&nbsp;
-<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-  <img src="./images/haskell.svg" alt="Haskell Logo" width="30" height="30" />
-</span>
+  <img src="./images/haskell.svg" alt="42 Logo" width="30" height="30" />
 </p>
 
 <p align="center">
