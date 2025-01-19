@@ -10,21 +10,21 @@
 
 <h3 align="center">🌱 My current interests:</h3>
 <p align="center">
-  <img src="./images/42.svg" alt="42 Logo"
-     width="30" height="30"
-     style="background-color: #ffffff; padding: 5px; border-radius: 5px;" />
+<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+  <img src="./images/42.svg" alt="42 Logo" width="30" height="30" />
+</span>
   &nbsp;&nbsp;
-  <img src="./images/c.svg" alt="c Logo"
-     width="30" height="30"
-     style="background-color: #ffffff; padding: 5px; border-radius: 5px;" />
+<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+  <img src="./images/c.svg" alt="C Logo" width="30" height="30" />
+</span>
   &nbsp;&nbsp;
-  <img src="./images/cplusplus.svg" alt="cplusplus Logo"
-     width="30" height="30"
-     style="background-color: #ffffff; padding: 5px; border-radius: 5px;" />
+<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+  <img src="./images/cplusplus.svg" alt="C++ Logo" width="30" height="30" />
+</span>
   &nbsp;&nbsp;
-  <img src="./images/haskell.svg" alt="haskell Logo"
-     width="30" height="30"
-     style="background-color: #ffffff; padding: 5px; border-radius: 5px;" />
+<span style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+  <img src="./images/haskell.svg" alt="Haskell Logo" width="30" height="30" />
+</span>
 </p>
 
 <p align="center">
