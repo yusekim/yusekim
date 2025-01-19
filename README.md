@@ -8,6 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;">
 </p>
 
-<h3 align="center">🌱 My current interests: "Embedded system programming"</h3>
+<h3 align="center">🌱 My current interests: "low-level stuffs"</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yusekim&show_icons=true&theme=radical" height="150"/>
