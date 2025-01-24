@@ -8,7 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;">
 </p>
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-000000?&logo=haskell&logoColor=white)
+![assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+
 <h3>🌱 My current interests: "low-level stuffs"</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yusekim&show_icons=true&theme=radical" height="150"/>
+![yusekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusekim&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youwin0802)](https://solved.ac/youwin0802)
